@@ -26,8 +26,7 @@ It provides insights into the content available on Amazon Prime Video.
 
 ---
 
-## 📸 Dashboard Preview
-*(You can add a screenshot here later)*  
+## 📸 Dashboard Preview 
 
 ---
 
